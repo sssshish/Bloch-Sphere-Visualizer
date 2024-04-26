@@ -3,11 +3,12 @@
 ## Overview
 This project is a visualization tool for single qubit rotations on a Bloch Sphere, implemented using Qiskit and Python Tkinter.
 
-# Demo:
-![Home](https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/app.png)
-![About Section](https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/about.png)
-![For Parametrized Gates (example Rx)](https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/parametrized.png)
-![Bloch Sphere Visualization](https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/rx_visualize.png)
+# Images:
+![Home]
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/app.png" alt="App Home" style="max-width:100%; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/about.png" alt="About Section" style="max-width:100%; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/parametrized.png" alt="For parametrized gates (example Rx)" style="max-width:100%; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/rx_visualize.png" alt="Visualizer" style="max-width:100%; height:auto;">
 
 
 # Quantum Gates used: 
