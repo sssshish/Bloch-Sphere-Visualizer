@@ -6,7 +6,7 @@ This project is a visualization tool for single qubit rotations on a Bloch Spher
 # Images:
 <img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/app.png" alt="App Home" style="max-width:300px; height:auto;">
 <img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/about.png" alt="About Section" style="max-width:300px; height:auto;">
-<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/parametrized.png" alt="For parametrized gates (example Rx)" style="max-width:300px; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/rx_para" alt="For parametrized gates (example Rx)" style="max-width:300px; height:auto;">
 <img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/rx_visualize.png" alt="Visualizer" style="max-width:300px; height:auto;">
 
 
