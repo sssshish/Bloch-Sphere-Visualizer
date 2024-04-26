@@ -4,11 +4,10 @@
 This project is a visualization tool for single qubit rotations on a Bloch Sphere, implemented using Qiskit and Python Tkinter.
 
 # Images:
-![Home]
-<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/app.png" alt="App Home" style="max-width:30%; height:auto;">
-<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/about.png" alt="About Section" style="max-width:30%; height:auto;">
-<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/parametrized.png" alt="For parametrized gates (example Rx)" style="max-width:30%; height:auto;">
-<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/rx_visualize.png" alt="Visualizer" style="max-width:30%; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/app.png" alt="App Home" style="max-width:300px; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/about.png" alt="About Section" style="max-width:300px; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/parametrized.png" alt="For parametrized gates (example Rx)" style="max-width:300px; height:auto;">
+<img src="https://github.com/sssshish/Bloch-Sphere-Visualizer/blob/main/images/rx_visualize.png" alt="Visualizer" style="max-width:300px; height:auto;">
 
 
 # Quantum Gates used: 
